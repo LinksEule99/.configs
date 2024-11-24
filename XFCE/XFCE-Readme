@@ -1,0 +1,8 @@
+In the XFCE branch you may find various files for styling your XFCE. 
+Here you will find a step by step guide on how to install the various Changes, and what they do.
+
+gtk.css:
+This file is used to make your XFCE pannel have round edges.
+To get them you may download the gtk.css file using your browser of choice or cloning the repo.
+After the download you should place the file in the "/home/user/.config/gtk-3.0/" directory and then reload your pannel by typing "xfce4-panel -r" into your terminal.
+After you've followed these steps your XFCE pannel should have round edges.
